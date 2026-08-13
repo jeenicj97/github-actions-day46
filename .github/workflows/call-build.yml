@@ -10,7 +10,7 @@ jobs:
     uses: ./.github/workflows/reusable-build.yml
 
     with:
-      app_name: "my-web-app"
+      app_name: "my-web-app1"
       environment: "production"
 
     secrets: 
